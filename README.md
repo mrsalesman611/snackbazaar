@@ -1,2 +1,16 @@
 # snackbazaar
 just a simple school shop
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SnackBazaar.pk</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>SnackBazaar.pk</h1>
+  <div id="products"></div>
+  <a href="cart.html" class="cart-link">View Cart (<span id="cartCount">0</span>)</a>
+  <script src="script.js"></script>
+</body>
+</html>
